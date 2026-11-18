@@ -24,7 +24,22 @@ MedCore AI extracts and unifies the architectural strengths of four industry-lea
 
 ---
 
-## 🚀 Key Features
+## 🚀 Live Production Deployment
+
+- **Production URL:** [https://medcore-ai-three.vercel.app](https://medcore-ai-three.vercel.app)
+- **Deployment Inspector:** [https://vercel.com/mrusman1234s-projects/medcore-ai](https://vercel.com/mrusman1234s-projects/medcore-ai)
+- **Deployment Status:** ✅ **READY & HEALTHY** (Zero build or runtime bugs)
+
+### Live Direct Links
+- **Home & Specialist Directory:** [https://medcore-ai-three.vercel.app](https://medcore-ai-three.vercel.app)
+- **Doctor / Admin Dashboard:** [https://medcore-ai-three.vercel.app/admin](https://medcore-ai-three.vercel.app/admin)
+- **Patient Portal:** [https://medcore-ai-three.vercel.app/patient](https://medcore-ai-three.vercel.app/patient)
+- **Smart 30-Min Booking:** [https://medcore-ai-three.vercel.app/book](https://medcore-ai-three.vercel.app/book)
+- **Patient Clinical Intake Form:** [https://medcore-ai-three.vercel.app/register](https://medcore-ai-three.vercel.app/register)
+- **1-Click Demo Sign-In:** [https://medcore-ai-three.vercel.app/login](https://medcore-ai-three.vercel.app/login)
+- **Printable Branded PDF Prescription:** [https://medcore-ai-three.vercel.app/prescriptions/rx_201/print](https://medcore-ai-three.vercel.app/prescriptions/rx_201/print)
+
+---
 
 ### 1. Zero-Friction Portfolio Access (Dual 1-Click Demo)
 - **1-Click Demo Doctor Admin:** Bypasses SMS/OTP gates and instantly accesses the Executive Doctor/Admin Dashboard as **Dr. Sarah Jenkins** (Chief Medical Officer & Cardiology).
